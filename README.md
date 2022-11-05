@@ -20,18 +20,6 @@ O(n²)
 ```
 
 ## 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması
-### Avarage case
-```
-[2,16,6,22,18,27]
-```
-### Worst case
-```
-[27,22,18,16,6,2]
-```
-### Best case
-```
-[2,6,16,18,22,27]
-```
 
 ## 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 ```
